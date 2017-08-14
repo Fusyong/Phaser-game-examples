@@ -1,2 +1,2 @@
 # Phaser-game-examples
-my practice works in learning Phaser.
+some experimental games and APP, made in learning Phaser.
